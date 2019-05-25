@@ -1,0 +1,17 @@
+{
+  "name": "SlimConsole",
+  "version": "1.0",
+  "description": "",
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vandemars/slimconsole"
+  },
+  "engines": {
+    "php": ">=5.3.0"
+  }
+}
